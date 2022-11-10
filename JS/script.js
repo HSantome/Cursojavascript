@@ -8,6 +8,8 @@ let productoA = {
     precio: "150"
 }
 */
+
+/*
 function Producto(nombre,precio,stock){
     this.nombre = nombre;
     this.precio = precio;
@@ -22,6 +24,8 @@ let listaProductos = [productoA, productoB, productoC]
 listaProductosConStock = listaProductos.filter((prod) => prod.stock > 0)
 
 let listaNombres = listaProductosConStock.map((prod) => prod.nombre)
+
+*/
 
 /*
 for(const prod of listaProductos){
